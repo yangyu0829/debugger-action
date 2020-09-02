@@ -8,5 +8,5 @@ jobs:
     steps:
      - uses: actions/checkout@v2
 
-     - name: Setup Deb1ug Session
+     - name: Setup Debug Session
        uses: csexton/debugger-action@master
